@@ -38,7 +38,7 @@
   requirement: |
     Возможность создать новую игру
   prerequisites:
-    Успешно авторизованы, находимся на главной странице
+    no-data
   test-data: |
     no-data
   steps:
@@ -55,7 +55,7 @@
   requirement: |
     Возможность выбрать язык программирования
   prerequisites:
-    Успешно авторизованы, находимся на главной странице
+    no-data
   test-data: |
     no-data
   steps:
@@ -73,7 +73,7 @@
   requirement: |
     Фильтр по сложности игры
   prerequisites:
-    Успешно авторизованы, находимся на главной странице
+    no-data
   test-data: |
     no-data
   steps:
@@ -90,7 +90,7 @@
   requirement: |
     Установить время на продолжительность игры
   prerequisites:
-    Успешно авторизованы, находимся на главной странице
+    no-data
   test-data: |
     no-data
   steps:
@@ -109,7 +109,7 @@
   requirement: |
     Возможность выбрать соперника
   prerequisites:
-    Успешно авторизованы, находимся на главной странице
+    no-data
   test-data: |
     no-data
   steps:
@@ -127,7 +127,7 @@
   requirement: |
     Виден экран соперника
   prerequisites:
-    Успешно авторизованы, находимся на главной странице
+    no-data
   test-data: |
     no-data
   steps:
@@ -144,7 +144,7 @@
   requirement: |
     Чат с соперником
   prerequisites:
-    Успешно авторизованы, находимся на главной странице
+    no-data
   test-data: |
     no-data
   steps:
@@ -161,7 +161,7 @@
   requirement: |
     Видеть описание задачи во время игры
   prerequisites:
-    Успешно авторизованы, находимся на главной странице
+    no-data
   test-data: |
     no-data
   steps:
@@ -178,7 +178,7 @@
   requirement: |
     Можно отказаться от продолжения игры (сдаться)
   prerequisites:
-    Успешно авторизованы, находимся на главной странице
+    no-data
   test-data: |
     no-data
   steps:
@@ -198,7 +198,7 @@
   requirement: |
     Сбросить свое решение в процессе игры (начать сначала)
   prerequisites:
-    Успешно авторизованы, находимся на главной странице
+    no-data
   test-data: |
     no-data
   steps:
@@ -217,7 +217,7 @@
   requirement: |
     Проверить свое решение досрочно (до истечения таймера игры)
   prerequisites:
-    Успешно авторизованы, находимся на главной странице
+    no-data
   test-data: |
     no-data
   steps:

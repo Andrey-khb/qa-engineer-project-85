@@ -110,7 +110,7 @@
     Возможность выбрать соперника
   prerequisites:
     - Соперник добавлен в список друзей
-    - login: khaba@yan1.ru, password: 1234567890
+    - login khaba@yan1.ru, password 1234567890
   test-data: |
     no-data
   steps:
